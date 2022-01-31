@@ -20,7 +20,7 @@ Submit puts all the info a big object and sends it in a POST to back end.
 
 After receiving a valid response to the POST request the page hides all input fields and displays the generated readme in a new box.
 
-Look into download requests to allow for a download button to simply grab the generated md instead of having to copy paste.
+Look into download requests to allow for a download button to simply grab the generated md instead of having to copy paste. - It's literally just a "download" attribute in the <a>. ez
 
 ### Back End
 
